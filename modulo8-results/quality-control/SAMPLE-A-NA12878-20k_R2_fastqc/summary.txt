@@ -1,0 +1,12 @@
+PASS	Basic Statistics	SAMPLE-A-NA12878-20k_R2.fastq.gz
+FAIL	Per base sequence quality	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Per tile sequence quality	SAMPLE-A-NA12878-20k_R2.fastq.gz
+WARN	Per sequence quality scores	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Per base sequence content	SAMPLE-A-NA12878-20k_R2.fastq.gz
+WARN	Per sequence GC content	SAMPLE-A-NA12878-20k_R2.fastq.gz
+FAIL	Per base N content	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Sequence Length Distribution	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Sequence Duplication Levels	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Overrepresented sequences	SAMPLE-A-NA12878-20k_R2.fastq.gz
+PASS	Adapter Content	SAMPLE-A-NA12878-20k_R2.fastq.gz
+WARN	Kmer Content	SAMPLE-A-NA12878-20k_R2.fastq.gz
